@@ -7,3 +7,5 @@ A user will be able to see the description about the organization or ferm regist
 
 Also the admin panel will be provided for having control on thier idi'es 
 and could post if any new feature/design or service is addedd by that ferm or id's.
+
+thier would also the feature of adding its own site or web page will be provided so that if any customers wants to ask anything his queries can be resolved. 
