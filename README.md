@@ -1,5 +1,5 @@
 # supply-support
-it is a web app that provide support to all kind of small- and medium businesses by providing the better ratings to whole sellars 
+It is a web app that provide support to all kind of small- and medium businesses by providing the better ratings to whole sellars 
 or specific hardware or softwares..
 
 A user will be able to see the description about the organization or ferm registered over this and can be rated for its product and services
